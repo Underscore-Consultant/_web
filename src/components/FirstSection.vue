@@ -20,7 +20,9 @@
 
         <section class="container">
             <div class="row">
-                <div class="col"></div>
+                <div class="col">
+                    <img src="../assets/gifs/thinks.gif" alt="" class="img-responsive">
+                </div>
                 <div class="col-4">
                     <h1 class="bebas text-left">
                         SOFTWARE<br/> 
