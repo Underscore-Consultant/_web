@@ -3,14 +3,19 @@
     <!-- <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
-    </div> -->
-    
-    <router-view/>
+    </div>-->
+
+    <router-view />
   </div>
 </template>
 
 <style lang="scss">
-body{
+html {
+  scroll-snap-type: mandatory;
+  scroll-snap-points-y: repeat(100vh);
+  scroll-snap-type: y mandatory;
+}
+body {
   margin: 0;
 }
 // #app {
