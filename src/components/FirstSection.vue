@@ -21,7 +21,7 @@
         <section class="container">
             <div class="row">
                 <div class="col">
-                    <img src="../assets/gifs/thinks.gif" alt="" class="img-responsive">
+                    <img src="../assets/gifs/thinks.gif" alt/>
                 </div>
                 <div class="col-4">
                     <h1 class="bebas text-left">
@@ -50,6 +50,7 @@ export default {
     background-repeat: no-repeat;
     background-position: top left;
     height: 100vh;
+    scroll-snap-align: start;
 }
 h1 {
     height: auto;
