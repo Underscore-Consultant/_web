@@ -2,7 +2,7 @@
   <div>
     <div class="wrapper">
       <div>
-        <img src="../assets/gifs/thinks.gif" alt="" class="img-responsive">
+        <img src="../assets/gifs/stress.gif" alt="" class="img-responsive">
       </div>
       <div style="background: #0066f5">
         <h1>
@@ -23,7 +23,7 @@
         </h1>
       </div>
       <div>
-        <img src="../assets/gifs/thinks.gif" alt="" class="img-responsive">
+        <img src="../assets/gifs/create.gif" alt="" class="img-responsive">
       </div>
     </div>
   </div>

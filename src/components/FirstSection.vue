@@ -21,7 +21,7 @@
         <section class="container">
             <div class="row">
                 <div class="col">
-                    <img src="../assets/gifs/collab.gif" alt height="650" width="700"/>
+                    <img src="../assets/gifs/thinks.gif" alt/>
                 </div>
                 <div class="col-4">
                     <h1 class="bebas text-left">
