@@ -14,6 +14,7 @@ html {
   scroll-snap-type: mandatory;
   scroll-snap-points-y: repeat(100vh);
   scroll-snap-type: y mandatory;
+  scroll-behavior: smooth;
 }
 body {
   margin: 0;

@@ -19,37 +19,40 @@
         </h1>
       </div>
     </div>
-    <div class="expert">
+    <div class="expert" id="service">
       <br />
       <br />
       <h1>Our Services</h1>
       <br />
       <br />
-      <br>
+      <br />
       <div>
         <div>
-          <img src="../assets/svg/webdev.svg" alt="" height="200" width="100">
-          <h2>Web Developments</h2>
+          <img src="../assets/svg/webdev.svg" alt height="200" width="100" />
+          <h2>Web Development</h2>
           <hr style="border-top: 1px dotted #0066f5; width: 100%; border-bottom-style: none;" />
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt eius necessitatibus veritatis, suscipit praesentium ut doloremque nisi corrupti veniam nostrum ea amet culpa odio, sit accusantium accusamus. Molestias, quisquam veniam.</p>
+          <p>We are passionate about transferring your wildest ideas to scaled, efficient and well-performed web platforms successfully functioning in Digital World. With our experience in UI/UX, development, we prototype, build, deliver effortlessly</p>
         </div>
         <div>
-          <img src="../assets/svg/mobile.svg" alt="" height="200" width="100">
+          <img src="../assets/svg/mobile.svg" alt height="200" width="100" />
           <h2>Mobile Development</h2>
           <hr style="border-top: 1px dotted #0066f5; width: 100%; border-bottom-style: none;" />
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt eius necessitatibus veritatis, suscipit praesentium ut doloremque nisi corrupti veniam nostrum ea amet culpa odio, sit accusantium accusamus. Molestias, quisquam veniam.</p>
+          <p>We are eager to bring live communication, fast access to information and high level of delight to demanding modern customers. Whether it is your first app or fourth one, our expertise in mobile app development will help you succeed with your mobile strategy.</p>
         </div>
         <div>
-          <img src="../assets/svg/devops.svg" alt="" height="200" width="100">
+          <img src="../assets/svg/devops.svg" alt height="200" width="100" />
           <h2>Devops</h2>
           <hr style="border-top: 1px dotted #0066f5; width: 100%; border-bottom-style: none;" />
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt eius necessitatibus veritatis, suscipit praesentium ut doloremque nisi corrupti veniam nostrum ea amet culpa odio, sit accusantium accusamus. Molestias, quisquam veniam.</p>
+          <p>
+            Infrastructure is very important to maintain reliable operation. At
+            <strong>Underscore</strong>, we use our expertise in cloud and server solutions to derive and build high-performing environments that will satisfy any complexity requirements for customer's product.
+          </p>
         </div>
         <div>
-          <img src="../assets/svg/ui.svg" alt="" height="200" width="100">
+          <img src="../assets/svg/ui.svg" alt height="200" width="100" />
           <h2>UI/UX Design</h2>
           <hr style="border-top: 1px dotted #0066f5; width: 100%; border-bottom-style: none;" />
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt eius necessitatibus veritatis, suscipit praesentium ut doloremque nisi corrupti veniam nostrum ea amet culpa odio, sit accusantium accusamus. Molestias, quisquam veniam.</p>
+          <p>We create user-friendly and development-ready designs of software systems such as web and mobile application mock ups that delight users. A great design is a cost-effective investment and it substantially reduces risks of mistakes and overpays.</p>
         </div>
       </div>
     </div>
@@ -95,7 +98,7 @@ export default {
   height: 100vh;
   scroll-snap-align: start;
   /* line-height: 100%; */
-  background: url("../assets/gifs/ring.gif");
+  /* background: url("../assets/gifs/ring.gif"); */
   background-repeat: no-repeat;
   background-position: bottom;
   /* background-size: 700px; */
