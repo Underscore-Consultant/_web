@@ -127,7 +127,8 @@ export default {
 }
 
 .expert div div {
-  flex: 1 1 150px;
+  flex: 0 1 300px;
+  flex: 0 1 300px;
   /* height: 70vh; */
   display: flex;
   flex-direction: column;

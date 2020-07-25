@@ -15,6 +15,7 @@ html {
   scroll-snap-points-y: repeat(100vh);
   scroll-snap-type: y mandatory;
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 body {
   margin: 0;

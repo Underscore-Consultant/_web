@@ -3,6 +3,7 @@
     <FirstSection/>
     <Goal/>
     <Services/>
+    <Contact/>
   </div>
 </template>
 
@@ -11,13 +12,15 @@
 import FirstSection from '@/components/FirstSection.vue'
 import Goal from '@/components/Goal.vue'
 import Services from '@/components/Services.vue'
+import Contact from '@/components/Contact.vue'
 
 export default {
   name: 'Home',
   components: {
     FirstSection,
     Goal,
-    Services
+    Services,
+    Contact
   }
 }
 </script>
