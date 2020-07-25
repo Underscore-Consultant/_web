@@ -45,7 +45,7 @@
           </span>
         </div>
       </div>
-      <div style="background: #0066f5">
+      <div style="background: #0047ab">
         <h1>Contact Us</h1>
         <br />
         <label for="text">Name</label>
