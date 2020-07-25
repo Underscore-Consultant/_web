@@ -8,6 +8,8 @@
           <span>08142558011 | 08085816733</span>
           <br>
           <span>561, Sabo-Yaba, Alagomeji, Lagos</span>
+          <br><br><br><br><br>
+          <img src="../assets/gifs/lines.gif" alt="">
       </div>
       <div style="background: #0066f5">
         <h1>Contact Us</h1>
