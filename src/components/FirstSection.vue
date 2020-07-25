@@ -19,8 +19,8 @@
         <div class="navbar-nav ml-auto">
           <a class="nav-item nav-link active" href="#goal">Goals</a>
           <a class="nav-item nav-link" href="#service">Services</a>
-          <a class="nav-item nav-link" href="#">About</a>
-          <a class="nav-item nav-link" href="#">Contact Us</a>
+          <!-- <a class="nav-item nav-link" href="#">About</a> -->
+          <a class="nav-item nav-link" href="#contact">Contact Us</a>
         </div>
       </div>
     </nav>

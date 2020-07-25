@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div id="contact">
     <div class="parent">
       <div style="background: #333;">
         <br />
