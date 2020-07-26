@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="wrapper">
+    <div class="wrapper" id="goal">
       <div>
         <img src="../assets/gifs/stress.gif" alt="" class="img-responsive">
       </div>
